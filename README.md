@@ -10,7 +10,7 @@ Bu proje, **Java Swing** kütüphanesi kullanılarak geliştirilmiş, dosya taba
 
 Oyunun bilgisayarınızda sorunsuz çalışabilmesi için `C:\` dizini altında aşağıdaki klasör yapısının ve dosyaların eksiksiz bulunması gerekmektedir:
 
-```text
+text
 C:\P2Oyun\
 │
 ├── Resimler\
