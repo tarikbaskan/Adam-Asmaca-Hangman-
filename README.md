@@ -84,7 +84,10 @@ Oyunun bilgisayarınızda sorunsuz çalışabilmesi için `C:\\` dizini altında
 
 📸 Ekran Görüntüleri
 
-
+Şifre Kontrol Ekranı(https://github.com/tarikbaskan/Adam-Asmaca-Hangman-/blob/main/Sifre.png?raw=true)
+Oyun Görüntüleme Ekranı(https://github.com/tarikbaskan/Adam-Asmaca-Hangman-/blob/main/Oyun.png?raw=true)
+Geçmiş Görüntüleme Ekranı(https://github.com/tarikbaskan/Adam-Asmaca-Hangman-/blob/main/Gecmis.png?raw=truehttps://github.com/tarikbaskan/Adam-Asmaca-Hangman-/blob/main/Log.png?raw=true)
+Log Görüntüleme Ekranı(https://github.com/tarikbaskan/Adam-Asmaca-Hangman-/blob/main/Log.png?raw=truehttps://github.com/tarikbaskan/Adam-Asmaca-Hangman-/blob/main/Oyun.png?raw=true)
 
 
 
