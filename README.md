@@ -6,16 +6,23 @@ Bu proje, **Java Swing** kütüphanesi kullanılarak geliştirilmiş, dosya taba
 
 ## 📁 Gerekli Dosya ve Klasör Yapısı
 
-Oyunun bilgisayarınızda sorunsuz çalışabilmesi için `C:\` dizini altında aşağıdaki klasörlerin ve dosyaların eksiksiz bulunması gerekmektedir:
+## 📁 Gerekli Dosya ve Klasör Yapısı
 
-📂 **C:\P2Oyun**
-┣ 📂 **Resimler** (İçerisinde `1.jpg`'den `11.jpg`'ye kadar 11 adet darağacı görseli olmalı)
-┗ 📂 **TXTDosyalar**
-┃ ┣ 📄 `sifre.txt` -> Oyuna giriş şifreleri (Alt alta birden fazla şifre yazılabilir)
-┃ ┣ 📄 `kelimeler.txt` -> Oyunda sorulacak Türkçe kelimelerin listesi
-┃ ┣ 📄 `oyunlar.txt` -> Tamamlanan oyunların skor ve geçmiş kayıtları
-┃ ┗ 📄 `log.txt` -> Başarılı/başarısız tüm girişlerin tutulduğu sistem günlüğü
+Oyunun bilgisayarınızda sorunsuz çalışabilmesi için `C:\` dizini altında aşağıdaki klasör yapısının ve dosyaların eksiksiz bulunması gerekmektedir:
 
+```text
+C:\P2Oyun\
+│
+├── Resimler\
+│   ├── 1.jpg (Darağacı başlangıç görseli)
+│   ├── ...
+│   └── 11.jpg (Oyun bitti görseli)
+│
+└── TXTDosyalar\
+    ├── sifre.txt     (Oyuna giriş şifreleri - Alt alta çoklu şifre destekler)
+    ├── kelimeler.txt (Oyunda sorulacak Türkçe kelimelerin listesi)
+    ├── oyunlar.txt   (Tamamlanan oyunların skor ve geçmiş kayıtları)
+    └── log.txt       (Başarılı/başarısız tüm girişlerin tutulduğu sistem günlüğü)
 ---
 
 ## ✨ Projenin Öne Çıkan Özellikleri
